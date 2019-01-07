@@ -9,7 +9,7 @@
 Aquí se encuentran los ficheros correspendientes a la resolución de la PRACTICA 2 de la asignatura Tipología y ciclo de vida de los datos, perteneciente al Máster en Ciencia de Datos de la Universitat Oberta de Catalunya (UOC).
 En esta práctica se han empleado diversas técnicas de limpieza, transformación e integración de datos, utilizando las herramientas de Microsoft Excel y el editor de texto SublimeText2.
 
-El objetivo de la práctica es analizar los datos obtenidos en la práctica anterior y responder a la pregunta: ¿Cuales son los factores que influyen en el precio de una maqueta de "Gundam"
+El objetivo de la práctica es analizar los datos obtenidos en la práctica anterior y responder a la pregunta: ¿Cuales son los factores que influyen en el precio de una maqueta de "Gundam"?
 
 ## Miembros del equipo
 
