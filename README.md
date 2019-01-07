@@ -24,7 +24,7 @@ Para la ejecución del script en R es necesario tener instalados los siguientes 
 
 Los ficheros se organizan en tres directorios diferentes:
 
-* **code**/ Contiene el fichero **gunpla_analysis.R** empleado en la limpieza, tratamiento y posterior creación del .csv:
+* **code**/ Contiene el fichero **gunpla_analysis.r** empleado en la limpieza, tratamiento y posterior creación del .csv:
   
      
 * **data**/ Contiene los ficheros _gunpla.csv_ obtenido como resultado del web scraping realizado por la práctica anterior; el fichero _gunpla_clean.csv_, que es el resultado del tratamiento previo de los datos y finalmente, el fichero _gunpla_final.csv_ que contiene el dataset modificado y grabado como resultado final del script en R.
