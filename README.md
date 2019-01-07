@@ -29,15 +29,14 @@ Los ficheros se organizan en tres directorios diferentes:
      
 * **data**/ Contiene los ficheros _gunpla.csv_ obtenido como resultado del web scraping realizado por la práctica anterior y el fichero _gunpla_scraper.py_.
 
-* **pdf**/ Contiene el documento _practica1_luimargu.pdf_, que contiene las respuestas a las características del dataset solicitadas en el enunciado de la práctica. 
+* **pdf**/ Contiene el documento _practica2_luimargu.pdf_, que contiene las respuestas a las características del dataset solicitadas en el enunciado de la práctica. 
 
 ## Recursos
 
-1. Lawson, R. (2015). _Web Scraping with Python_. Packt Publishing Ltd. Chapter 2. Scraping the Data.
-2. Mitchel, R. (2018). _Web Scraping with Python: Collecting Data from the Modern Web (2nd Edition)_. O'Reilly Media, Inc. Chapter 1. Your First Web Scraper.
-3. Subirats, L., Calvo, M. (2018). _Web Scraping_. Apuntes de la asignatura Tipología y ciclo de vida de los datos. Universitat Oberta de Catalunya,
-4. Lutz, M. (2016). _Learning Python (5th Edition)_. O'Reilly Media, Inc.
+1. Megan Squire.(2015). _Clean Data_. Packt Publishing Ltd.
+2. W. Osborne, Jason. (2010). _Data Cleaning Basics: Best Practices in Dealing with Extreme Scores_. Newborn and Infant Nursing Reviews; 10 (1): pp. 1257-3369.
+3. Dalgaard, Peter. (2010). _Introductory statistis with R_. Springer Science & Bussines Media.
 
 
 Licencia
-El contenido de este proyecto esta licencia bajo la Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International, y el código fuente usadao para mostrar este contenido esta licenciado bajo la MIT license.
+El contenido de este proyecto esta licencia bajo la Creative Commons Attribution-NonCommercial-ShareAlike 4.0 International, y el código fuente usado para mostrar este contenido esta licenciado bajo la MIT license.
