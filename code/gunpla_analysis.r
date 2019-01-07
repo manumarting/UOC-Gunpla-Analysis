@@ -79,7 +79,7 @@ ggplot(gunpla, aes(Escala, Peso, color=Escala))+geom_point()
 
 ggplot(gunpla, aes(Precio, Peso, color=Escala))+geom_point()
 
-ggplot(gunpla, aes(Embalaje, Precio, color=Escala))+geom_point()
+ggplot(gunpla, aes(Embalaje, Precio, color=Escala))+geom_point() 
 
 # Gráfica de barras con las escalas y el nivel de detalle.
 with(gunpla, Barplot(Detalle, by=Escala, style="divided", legend.pos="topright", xlab="Detalle", ylab="Frequency"))
